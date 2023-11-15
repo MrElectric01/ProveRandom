@@ -14,4 +14,8 @@ public class Giosu {
     public Giosu(String bestemmia) {
         this.bestemmia = bestemmia;
     }
+
+    public String getBestemmia(){
+        return bestemmia;
+    }
 }
