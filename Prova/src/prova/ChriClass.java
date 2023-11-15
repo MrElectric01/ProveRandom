@@ -22,4 +22,10 @@ public class ChriClass {
         public void giosu(){
         System.out.println("Bella zio sono Giosu");
         }
+        
+        public void modificaChri(){
+        }
+        
+        public void modificaGiosu(){
+        }
 }
