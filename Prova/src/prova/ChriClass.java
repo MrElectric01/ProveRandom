@@ -12,4 +12,8 @@ public class ChriClass {
     public void prova(){
         System.out.println("Classe di christian");
     }
+    
+    public void giosu(){
+        System.out.println("Bella zio sono Giosu");
+    }
 }
