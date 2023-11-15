@@ -12,4 +12,10 @@ public class ChriClass {
     public void prova(){
         System.out.println("Classe di christian");
     }
+    
+    public int Christian(){
+        int a = 2;
+        int b = 22;
+        return a+b;
+    }
 }
