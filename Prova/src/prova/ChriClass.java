@@ -26,6 +26,11 @@ public class ChriClass {
         public void modificaChri(){
         }
         
-        public void modificaGiosu(){
+        public int modificaGiosu(){
+            int a = 2;
+            int b = 22;
+            int c = 3;
+            int d = 5;
+            return a+b+c+d;
         }
 }
