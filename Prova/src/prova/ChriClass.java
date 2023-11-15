@@ -24,6 +24,10 @@ public class ChriClass {
         }
         
         public void modificaChri(){
+            int i = 0;
+            while(i>0){
+                System.out.println("Dio cane"+i+1);
+            }
         }
         
         public void modificaGiosu(){
