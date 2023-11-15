@@ -18,4 +18,8 @@ public class ChriClass {
         int b = 22;
         return a+b;
     }
+  
+        public void giosu(){
+        System.out.println("Bella zio sono Giosu");
+        }
 }
