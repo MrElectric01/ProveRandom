@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Prova.jnlp">
+  <information>
+    <title>Prova</title>
+    <vendor>giosu</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Prova.jar" size="4533" download="eager" />
+    <jar href="lib\junit-4.13.2.jar" size="384581" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="prova.Prova"  name="Prova" />
+  <update check="always"/>
+</jnlp>
