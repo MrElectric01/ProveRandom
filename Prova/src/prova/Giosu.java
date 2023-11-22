@@ -18,4 +18,8 @@ public class Giosu {
     public String getBestemmia(){
         return bestemmia;
     }
+    
+    public String toString() {
+        return bestemmia.toString();
+    }
 }
